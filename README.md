@@ -76,7 +76,7 @@ Only registered users may access or view the wiki. Users are registered by defau
 
 ### revising your work
 
-1. If your TA thinks that a submission need more work, they will mark it as requiring revisions in your dashboard. The TA's comments to you will be included in the listing of the expansion. Use the 'edit article' or 'edit expansion' button to revise your work, then click 'Mark as Revised'. 
+1. If your TA thinks that a submission need more work, they will mark it as requiring revisions in your dashboard. The TA's comments to you will be included in the listing of the article/expansion. Use the 'edit article' or 'edit expansion' button to revise your work, then click 'Mark as Revised'. 
 
 ### leaving a comment
 
